@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KTU S7 SYLLABUS</title>
+</head>
+<body>
+    <h2> These are the subjects in semester 7 of 2019 ktu scheme (computer science and engineering):</H2>
+        <a href="#Artificial Intelligence"><li>Artificial Intelligence</li></a><br />
+        <a href="#Compiler Lab"><li>Compiler Lab</li></a><br />
+        <a href="#Seminar"><li>Seminar</li></a><br />
+        <a href="#Project Phase1"><li>Project Phase1</li></a><br />
+        <a href="#Program Elective2"><li>Program Elective 2</li></a><br />
+            <ul>
+            <li>Machine Learning</li>
+            <li> Cloud Computing</li>
+            <li>Security in Computing</li>
+            <li>Model Based Software Development</li>
+            <li>Web Programming</li>
+            <li>Natural Language Processing</li>
+        
+        </ul>
+        </li>
+        <a href="#Open Elective"><li>Open Elective</li></a><br />
+        <a href="#Industrial Safety Engineering"><li>Industrial Safety Engineering</li></a><br />
+        <div id="Artificial Intelligence"> <b>Syllabus of Artificial Intelligence</b></div>
+        <p>Module – 1 (Introduction)
+            Introduction – What is Artificial Intelligence(AI) ? The Foundations of AI, History of AI,
+            Applications of AI. Intelligent Agents – Agents and Environments, Good behavior: The concept
+            of rationality, nature of Environments, Structure of Agents.
+            Module – 2 (Problem Solving)
+            Solving Problems by searching-Problem solving Agents, Example problems, Searching for
+            solutions, Uninformed search strategies, Informed search strategies, Heuristic functions.
+            Module - 3 (Search in Complex environments)
+            Adversarial search - Games, Optimal decisions in games, The Minimax algorithm, Alpha-Beta
+            pruning. Constraint Satisfaction Problems – Defining CSP, Constraint Propagation- inference in
+            CSPs, Backtracking search for CSPs, Structure of CSP problems.
+            Module - 4 (Knowledge Representation and Reasoning)
+            Logical Agents – Knowledge based agents, Logic, Propositional Logic, Propositional Theorem
+            proving, Agents based on Propositional Logic. First Order Predicate Logic – Syntax and
+            Semantics of First Order Logic, Using First Order Logic, Knowledge representation in First
+            Order Logic. Inference in First Order Logic – Propositional Vs First Order inference, Unification
+            and Lifting, Forward chaining, Backward chaining, Resolution. 
+            Module - 5 (Machine Learning)
+            Learning from Examples – Forms of Learning, Supervised Learning, Learning Decision Trees,
+            Evaluating and choosing the best hypothesis, Regression and classification with Linear
+            models. </p>
+           <div id="Compiler Lab"><b> Syllabus of Compiler Lab</b></div>
+           <p>1. Implementation of lexical analyzer using the tool LEX.
+            2. Implementation of Syntax analyzer using the tool YACC.
+            3. Application problems using NFA and DFA.
+            4. Implement Top-Down Parser.
+            5. Implement Bottom-up parser.
+            6. Simulation of code optimization Techniques.
+            7. Implement Intermediate code generation for simple expressions.
+            8. Implement the back end of the compiler.</p>
+            <div id="Seminar"> <b>Syllabus of Seminar</b></div>
+            <p>The course ‘Seminar’ is intended to enable a B.Tech graduate to read, understand,
+                present and prepare report about an academic document. The learner shall search in the
+                literature including peer reviewed journals, conference, books, project reports etc., and
+                identify an appropriate paper/thesis/report in her/his area of interest, in consultation with
+                her/his seminar guide. This course can help the learner to experience how a presentation can
+                be made about a selected academic document and also empower her/him to prepare a
+                technical report.</p>
+            <div id="Project Phase1"> <b>Syllabus of Project Phase1</b></div>
+            <p>The course ‘Project Work’ is mainly intended to evoke the innovation and invention
+                skills in a student. The course will provide an opportunity to synthesize and apply the knowledge
+                and analytical skills learned, to be developed as a prototype or simulation. The project extends to
+                2 semesters and will be evaluated in the 7th and 8th semester separately, based on the achieved
+                objectives. One third of the project credits shall be completed in 7th semester and two third in 8th
+                semester. It is recommended that the projects may be finalized in the thrust areas of the respective
+                engineering stream or as interdisciplinary projects. Importance should be given to address societal
+                problems and developing indigenous technologies.</p>
+                <div id="Program Elective2"> <b>Syllabus of Program Elective2</b></div>
+                <p> Program Elective has:
+                    <li>Machine Learning</li>
+                    <li> Cloud Computing</li>
+                     <li>Security in Computing</li>
+                     <li>Model Based Software Development</li>
+                    <li>Web Programming</li>
+                      <li>Natural Language Processing</li>
+        
+                </p>
+
+                <div id="Open Elective"> <b>Syllabus of Open Elective</b></div>
+                <p> Here students have to choose subjects from other departments</p>
+
+                <div id="Industrial Safety Engineering"><b> Syllabus of Industrial Safety Engineering</b></div>
+                <p>Module I (Safety introduction- 5 hrs)
+                     Module II (Personal protection in work environment- 7 hrs) <br>
+                     Module III (Safety issues in construction- 7 hrs)
+                     Module IV (Safety hazards in machines- 8 hrs)
+                     Module V (Hazard identification and analysis- 8 hrs)
+
+
+                </p>
+
+ 
+
+
+        </body>
+</html>
